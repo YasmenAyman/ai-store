@@ -45,6 +45,28 @@ export const ar = {
   testimonials: {
     title: "ماذا يقول عملاؤنا",
   },
+  store: {
+    title: "مجموعتنا",
+    allCategories: "جميع الفئات",
+    filters: "التصفية",
+    category: "الفئة",
+    priceRange: "نطاق السعر",
+    rating: "التقييم",
+    sortBy: "ترتيب حسب",
+    sortOptions: {
+      popular: "الأكثر شعبية",
+      newest: "الأحدث",
+      priceLow: "السعر: من الأقل للأعلى",
+      priceHigh: "السعر: من الأعلى للأقل",
+      rating: "الأعلى تقييماً",
+    },
+    showing: "عرض",
+    products: "منتجات",
+    noProducts: "لم يتم العثور على منتجات",
+    noProductsDesc: "حاول تعديل التصفية",
+    clearFilters: "مسح التصفية",
+    starsUp: "نجوم فأكثر",
+  },
   product: {
     addToCart: "أضف إلى السلة",
     description: "الوصف",

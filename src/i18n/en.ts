@@ -45,6 +45,28 @@ export const en = {
   testimonials: {
     title: "What Our Customers Say",
   },
+  store: {
+    title: "Our Collection",
+    allCategories: "All Categories",
+    filters: "Filters",
+    category: "Category",
+    priceRange: "Price Range",
+    rating: "Rating",
+    sortBy: "Sort by",
+    sortOptions: {
+      popular: "Most Popular",
+      newest: "Newest",
+      priceLow: "Price: Low to High",
+      priceHigh: "Price: High to Low",
+      rating: "Highest Rated",
+    },
+    showing: "Showing",
+    products: "products",
+    noProducts: "No products found",
+    noProductsDesc: "Try adjusting your filters",
+    clearFilters: "Clear Filters",
+    starsUp: "stars & up",
+  },
   product: {
     addToCart: "Add to Cart",
     description: "Description",
