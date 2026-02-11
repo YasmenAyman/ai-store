@@ -75,6 +75,8 @@ export const en = {
     inStock: "In Stock",
     outOfStock: "Out of Stock",
     quantity: "Quantity",
+    noReviews: "No reviews yet",
+    backToStore: "Back to Store",
   },
   cart: {
     title: "Shopping Cart",

@@ -75,6 +75,8 @@ export const ar = {
     inStock: "متوفر",
     outOfStock: "غير متوفر",
     quantity: "الكمية",
+    noReviews: "لا توجد تقييمات بعد",
+    backToStore: "العودة إلى المتجر",
   },
   cart: {
     title: "سلة التسوق",
