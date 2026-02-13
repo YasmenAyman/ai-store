@@ -52,10 +52,10 @@
   }
 
   .dark {
-    --background: 0 0% 8%;
+    --background: 0 0% 14.9%;
     --foreground: 30 15% 90%;
 
-    --card: 0 0% 11%;
+    --card: 0 0% 19.2%;
     --card-foreground: 30 15% 90%;
 
     --popover: 0 0% 11%;
@@ -105,7 +105,12 @@
     @apply bg-background text-foreground font-sans;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: 'Playfair Display', serif;
   }
 }
